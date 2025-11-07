@@ -16,6 +16,3 @@
 - git branch -M main
 - git push -u origin main
 - check status of the new github repository
-
-
-
